@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 🔭 I’m currently working on small personal projects for my daily life<br>👯 I’m looking to collaborate on larger projects with companies (=looking for a job 😉) <br>🤝 I’m looking for help with building my own os (looks cool so I want to do it 👍)<br>🌱 I’m currently learning Node.js <br>💬 Ask me about C# (It's my official training)<br>⚡ Fun fact I got into programming to help my friend nuke a pedo Discord server 💥
 
 # 💻 Tech Stack:
