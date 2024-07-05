@@ -17,7 +17,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zikithezikit&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/Zikithezikit/Zikithezikit/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<seu Zikithezikit>/<seu Zikithezikit>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zikithezikit&icon=6&color=6)](https://visitcount.itsvg.in)
